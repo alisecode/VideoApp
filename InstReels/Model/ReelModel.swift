@@ -2,7 +2,14 @@
 //  ReelModel.swift
 //  InstReels
 //
-//  Created by Алиса Третьякова on 16.01.2024.
+//  Created by Alisa Serhiienko on 15.01.2024.
 //
 
-import Foundation
+import SwiftUI
+import AVKit
+
+struct Reel: Identifiable {
+    var id = UUID()
+    var player: AVPlayer
+    var mediaFile: Media
+}
