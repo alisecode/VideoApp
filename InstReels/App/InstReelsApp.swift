@@ -2,7 +2,7 @@
 //  InstReelsApp.swift
 //  InstReels
 //
-//  Created by Алиса Третьякова on 16.01.2024.
+//  Created by Alisa Serhiienko on 16.01.2024.
 //
 
 import SwiftUI
